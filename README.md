@@ -2,6 +2,10 @@
 
 [![Build Status](https://travis-ci.org/ceph/go-ceph.svg)](https://travis-ci.org/ceph/go-ceph) [![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/ceph/go-ceph) [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/ceph/go-ceph/master/LICENSE)
 
+
+>  this branches (compated_dev) is to adapted the old ceph versions (luminous, mimic ...)
+
+
 ## Installation
 
     go get github.com/ceph/go-ceph
